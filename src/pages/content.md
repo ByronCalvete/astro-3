@@ -12,7 +12,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ```python
 def sum(x,y):
-  return x + y
+  print(x + y)
 
-print(sum(1,2))
+sum(1,2)
 ```
